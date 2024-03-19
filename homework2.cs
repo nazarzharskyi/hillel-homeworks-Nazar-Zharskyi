@@ -64,6 +64,8 @@
             {
                 task_8();
             }
+            else
+                Console.WriteLine("You`ve entered incorrect number of task");
             Console.WriteLine(new string('-', 30));
             Console.WriteLine();
         }
